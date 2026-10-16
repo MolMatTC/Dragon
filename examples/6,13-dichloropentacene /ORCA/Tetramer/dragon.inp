@@ -1,0 +1,16 @@
+$DIAB
+Inp='TDCP-TDA_WB9X'
+Spin='R'
+Nstates=90
+TD='CIS'
+Nfrag=4
+AI=3
+Dip=.t.
+$END
+
+$FRAG
+NAFrag=36,36,36,36
+AN=6,1,17
+AB=13,4,17
+$END
+
