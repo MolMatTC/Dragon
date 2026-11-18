@@ -115,7 +115,7 @@ program (including the xTB modification), all input keywords, and the content of
 DRAGON/
 ├── src/         Fortran core, Python interface (Inter.py) and Makefile
 ├── examples/    Input files of the examples (Gaussian 16, ORCA, PySCF, Psi4)
-├── docs/        User manual and logo
+├── docs/        User manual and logo 
 └── LICENSE
 ```
 
